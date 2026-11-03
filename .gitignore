@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# NetBeans
+nbproject/
+build/
+dist/
+
+# VSCode
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
